@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using NeosWithoutSsao;
 
-[assembly: MelonInfo(typeof(DisableSsao), "Neos Disable SSAO", "1.0.0", "hiinaspace")]
+[assembly: MelonInfo(typeof(DisableSsao), "Neos Disable SSAO", "2.0.3", "hiinaspace")]
 [assembly: MelonGame("Solirax", "NeosVR")]
 
 // General Information about an assembly is controlled through the following
